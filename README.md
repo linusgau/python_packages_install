@@ -15,4 +15,5 @@ pip install face_recognition
 
 ## 4.OpenCV安装
 pip install opencv-python
+
 pip install opencv-contrib-python
